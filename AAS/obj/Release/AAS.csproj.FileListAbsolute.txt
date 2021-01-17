@@ -1,0 +1,10 @@
+D:\Projects\AAS\AAS\bin\Release\AAS.exe.config
+D:\Projects\AAS\AAS\bin\Release\AAS.exe
+D:\Projects\AAS\AAS\bin\Release\AAS.pdb
+D:\Projects\AAS\AAS\bin\Release\AutocompleteMenu.dll
+D:\Projects\AAS\AAS\bin\Release\ScintillaNET.dll
+D:\Projects\AAS\AAS\obj\Release\AAS.Form1.resources
+D:\Projects\AAS\AAS\obj\Release\AAS.Properties.Resources.resources
+D:\Projects\AAS\AAS\obj\Release\AAS.csproj.GenerateResource.Cache
+D:\Projects\AAS\AAS\obj\Release\AAS.exe
+D:\Projects\AAS\AAS\obj\Release\AAS.pdb
